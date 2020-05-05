@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         Button buttonMultiple = findViewById(R.id.multiple);
         final Button buttonclear = findViewById(R.id.buttonclear);
 
+
         View.OnClickListener numbers = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
